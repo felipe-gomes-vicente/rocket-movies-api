@@ -14,6 +14,11 @@ Use Insomnia to register routes and check status codes. created the database use
 SQlite, manipulate the database using the tool Beekeper Studio together with Query 
 Builder Knex.js.
 
+Watch it in action Deploy: [Click Here](http://rocket-movies-front-end.vercel.app/)
+
+Login User: adm@teste.com 
+Password: 123
+
 What was developed:
 
 - Logic and Algorithms with Javascript;
@@ -21,6 +26,9 @@ What was developed:
 - SQLite database to save the data;
 - Tool Beekeper Studio;
 - Query Builder with tool Knex.js;
+- PM2 Advanced process manager for production Node.js applications;
+- Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files;
+- JWT with jsonwebtoken;
 - Data immutability;
 - Promises with Async Await;
 - Classes and events;
@@ -80,9 +88,18 @@ PORT Server localhost:3333
 
 <br />
 
+Clone the project and access the folder
+
+```bash
+$ git clone https://github.com/felipe-gomes-vicente/rocket-movies-front-end.git
+$ cd rocket-movies-front-end
+```
+
+<br />
+
 ## 📝 License
 
-This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details.
+This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
 
 ---
 
