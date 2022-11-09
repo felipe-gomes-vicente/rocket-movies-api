@@ -16,7 +16,7 @@ Builder Knex.js.
 
 Watch it in action Deploy: [Click Here](http://rocket-movies-front-end.vercel.app/)
 
-Login User: adm@teste.com 
+Login User: felipe@mail.com
 Password: 123
 
 What was developed:
